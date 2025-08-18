@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test4Application {
 
 	public static void main(String[] args) {
+
+		char z = 'r';
+
 		String name="mike";
 		int x=100;
 		int y=20;
@@ -14,6 +17,7 @@ public class Test4Application {
 		boolean isSubs=true;
 		char i = 'n';
   
+
 		SpringApplication.run(Test4Application.class, args);
 	}
 
