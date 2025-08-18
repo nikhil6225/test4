@@ -10,6 +10,7 @@ public class Test4Application {
 		String name="mike";
 		int x=100;
 		int y=20;
+		boolean isSubs=true;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
