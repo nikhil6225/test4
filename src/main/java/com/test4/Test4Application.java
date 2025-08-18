@@ -12,6 +12,7 @@ public class Test4Application {
 		int y=20;
  		char ch = 'x';
 		boolean isSubs=true;
+		char i = 'n';
   
 		SpringApplication.run(Test4Application.class, args);
 	}
